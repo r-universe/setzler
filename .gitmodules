@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "textab"]
+	path = textab
+	url = https://github.com/setzler/textab
+	shallow = true
+	registered = true
