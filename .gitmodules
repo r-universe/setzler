@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "DiDforBigData"]
 	path = DiDforBigData
 	url = https://github.com/setzler/didforbigdata
-	shallow = true
-	registered = true
 [submodule "textab"]
 	path = textab
 	url = https://github.com/setzler/textab
-	shallow = true
-	registered = true
